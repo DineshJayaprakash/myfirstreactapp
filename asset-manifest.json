@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirstreactapp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/myfirstreactapp/static/js/main.bfd50fab.chunk.js",
+    "main.js.map": "/myfirstreactapp/static/js/main.bfd50fab.chunk.js.map",
+    "runtime-main.js": "/myfirstreactapp/static/js/runtime-main.1c5cfc7b.js",
+    "runtime-main.js.map": "/myfirstreactapp/static/js/runtime-main.1c5cfc7b.js.map",
+    "static/js/2.14c19b93.chunk.js": "/myfirstreactapp/static/js/2.14c19b93.chunk.js",
+    "static/js/2.14c19b93.chunk.js.map": "/myfirstreactapp/static/js/2.14c19b93.chunk.js.map",
+    "index.html": "/myfirstreactapp/index.html",
+    "precache-manifest.6009d3185ee2009eb1c8800b8ff66df8.js": "/myfirstreactapp/precache-manifest.6009d3185ee2009eb1c8800b8ff66df8.js",
+    "service-worker.js": "/myfirstreactapp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/myfirstreactapp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.14c19b93.chunk.js.LICENSE.txt": "/myfirstreactapp/static/js/2.14c19b93.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/myfirstreactapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5cfc7b.js",
+    "static/js/2.14c19b93.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bfd50fab.chunk.js"
+  ]
+}
